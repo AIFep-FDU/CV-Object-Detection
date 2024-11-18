@@ -1,0 +1,17 @@
+seed: 42
+model: yolov1
+
+img_size: 640
+root: ./VOCdevkit/VOC2007
+save_folder: weights/
+
+max_epoch: 150
+eval_epoch: 10
+batch_size: 16
+num_workers: 4
+
+min_box_size: 8.0
+conf_thresh: 0.001
+nms_thresh: 0.7
+grad_accumulate: 1
+fp16: True
