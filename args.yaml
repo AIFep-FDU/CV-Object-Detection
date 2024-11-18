@@ -2,7 +2,7 @@ seed: 42
 model: yolov1
 
 img_size: 640
-root: ./VOCdevkit/VOC2007
+root: /path/VOCdevkit/VOC2007
 save_folder: weights/
 
 max_epoch: 150

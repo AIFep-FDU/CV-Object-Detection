@@ -37,6 +37,7 @@ python train.py
 ```bash
 python test.py
 ```
+测试后将结果json在[魔搭空间上](https://modelscope.cn/studios/xieyazhen/voc2007_layout_test)进行评测
 
 ## 注意事项
 - 可以通过配置`args.yaml`更改训练等参数。
