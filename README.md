@@ -9,6 +9,15 @@
 pip install numpy omegaconf tqdm 
 ```
 
+## 项目构成
+`yolov1/` ：模型代码和损失函数代码
+
+`uutils/` ：数据集、数据增强、nms等杂项代码
+
+`trainer.py`和`evaluator.py` ：分别包含训练目标检测模型的主要逻辑和评估目标检测模型性能的主要逻辑
+
+`config.py` ：一些常量配置参数
+
 ## 代码补全需求
 对项目中`trainer.py`和`evaluator.py`中的如下部分进行补全
 ```python
