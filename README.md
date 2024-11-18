@@ -40,5 +40,5 @@ python test.py
 测试后将结果json在[魔搭空间上](https://modelscope.cn/studios/xieyazhen/voc2007_layout_test)进行评测
 
 ## 注意事项
-- 可以通过配置`args.yaml`更改训练等参数。
+- 可以通过配置`args.yaml`更改训练相关参数。
 - 项目中的数据集和上次的`CV-入门实践`都采用的`VOC2007数据集`，但是里面的部分内容与`CV-入门实践`不同，建议本项目实践中重新下载项目中的数据集。
