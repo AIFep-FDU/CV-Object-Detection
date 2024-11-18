@@ -18,6 +18,8 @@ pip install numpy omegaconf tqdm
 
 `config.py` ：一些常量配置参数
 
+`VOCdevkit.zip` ：数据集需解压，训练时将数据集路径填入 `args.yaml` 的`root`参数
+
 ## 代码补全需求
 对项目中`trainer.py`和`evaluator.py`中的如下部分进行补全
 ```python
