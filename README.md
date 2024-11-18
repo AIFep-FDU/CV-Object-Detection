@@ -2,7 +2,7 @@
 ## 环境配置
 1. python版本推荐3.X
 
-2. 从[pytorch官网](https://pytorch.org/)根据本地环境安装对应版本torch和torchvision
+2. 从[pytorch官网](https://pytorch.org/)根据本地环境安装对应版本`torch`和`torchvision`
 
 3. 依赖库：使用 pip 安装所需的依赖库
 ```
