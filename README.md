@@ -1,4 +1,6 @@
 # CV实践 - 图像检测
+## 数据集下载链接
+如果无法通过git lfs下载的话，可以通过[这个链接](https://aistudio.baidu.com/datasetdetail/305177)下载数据集
 ## 环境配置
 1. python版本推荐3.X
 
